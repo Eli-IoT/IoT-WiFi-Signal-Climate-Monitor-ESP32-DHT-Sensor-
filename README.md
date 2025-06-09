@@ -35,4 +35,3 @@ All values (temperature, humidity, WiFi signal strength) are streamed to ThingSp
 
 ---
 chat GPT can help you if needed
-*Perfect as a lightweight and practical IoT proof-of-concept project.*
